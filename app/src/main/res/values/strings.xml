@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CLCred</string>
+    <string name="Cred">Cred</string>
+    <string name="Store">Store</string>
+    <string name="collections">collections</string>
+    <string name="brands">brands</string>
+    <string name="deal_of">deal of</string>
+    <string name="time_deal">1 pm dialy</string>
+    <string name="day">- THE DAY</string>
+    <string name="featured">featured</string>
+    <string name="unlock_price">Unlock price</string>
+    <string name="by_using">by using</string>
+    <string name="begin_journey">begin your shopping journey</string>
+    <string name="first_purchase">store special: for your first purchase</string>
+    <string name="light_deals">lightning deals await</string>
+    <string name="discover">discover handpicked curation</string>
+    <string name="spin">spin the wheel:  everyday at 9 pm</string>
+    <string name="live">now live</string>
+    <string name="launching">launching</string>
+    <string name="notify">Notify me</string>
+    <string name="in_focus">brands in focus</string>
+    <string name="up_to">up to</string>
+    <string name="loved_brand">most loved brand</string>
+    <string name="amount">150k others are celebrating their\npurchase</string>
+    <string name="join_text">join them by discovering your next\nfavourite purchase on CRUD store</string>
+    <string name="manage">"Managed by "</string>
+    <string name="dream">Dreampug Technologies Pvt Ltd</string>
+    <string name="explore">explore entire curation</string>
+</resources>
